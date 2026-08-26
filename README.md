@@ -36,3 +36,8 @@ Projeto de Churn (SEMMA)
 - Modify
 - Model
 - Assess
+
+## Anotações
+
+X é sempre uma matriz (dataframe)
+y é um vetor (serie)
